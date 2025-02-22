@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   background: #ffc600;
-  font-family: 'helvetica neue';
+  font-family: 'helvetica neue', sans-serif;
   font-size: 20px;
   font-weight: 200;
 }
@@ -73,6 +73,6 @@ span.population {
   background: #ffc600;
 }
 
-.hidde {
+.hide {
   visibility: hidden;
 }
